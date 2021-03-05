@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000076
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་ཚུལ་སྣ་ཚོགས་ལས་བརྩམས་ཏེ་འབེལ་གཏམ་དུ་བགྱིས་པའི་རབས་མེ་ཏོག་ཆུན་འཕྱང་ལགས།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-13
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-TSE-13
 web_metadata:
   title:
     en: Flower Garlands:A Discourse on Various Dharma Topics
